@@ -2,6 +2,9 @@
 
 - craete react app
 - configured taileind css
+- Header
+- Login Form
+- Sign Up Form
 
 # Features
 
